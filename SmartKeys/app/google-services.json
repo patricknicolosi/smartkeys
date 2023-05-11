@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225046451805",
+    "project_id": "smartkeys-962f7",
+    "storage_bucket": "smartkeys-962f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225046451805:android:e4224e43539cc77fdf1fb4",
+        "android_client_info": {
+          "package_name": "com.patricknicolosi.smartkeys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225046451805-8o0eg08e0vb49qtpeg5oo8m02oj9nf0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb3gFWxwp_AZQY-sLNjBdHjjroXzyCkH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225046451805-8o0eg08e0vb49qtpeg5oo8m02oj9nf0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+1. Inviare la notifica tramite FCM di avvenuta o mancata apertura (Registrare token dispotivo con sharedpreferences)
+3. Avere un log di tutte le scansioni fatte 

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_purple">#D227A5</color>
+    <color name="salmon">#fd908a</color>
+    <color name="strange_orange">#bc874a</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_blue">#181820</color>
+    <color name="blue_google">#4C8BF5</color>
+    <color name="light_gray">#171717</color>
+    <color name="edit_text_content_color">#6F6F6F</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
